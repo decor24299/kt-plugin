@@ -1,0 +1,22 @@
+﻿Phím tắt :
+-Chủ PT (Nói chung acc cần tanker đi trước bảo vệ , trên 1 máy chỉ 1 acc ấn phím tắt này thôi :D ,
+có 2 acc trở lên mà ấn là phiền đấy. 
+Chức năng này sau này sẽ mở rộng ra cho các map mà không pt được nhưng xe vẫn đi theo đội hình đẹp) : Alt+F6
+-Tanker : Alt+F5
+
+Lệnh Đk đội:
+
+OutTK "pass" :- Gọi cả team out map Tống Kim
+HoTroTK "pass" : -Gọi cả team mở Tool hỗ trợ TK (Mua máu, nhận máu)
+
+pass: chỉnh = notepad++ trong file pass.txt mặc định đang để là giangthanh .
+ Việc đầu tiên khi dùng tool là chỉnh cái này, không lại bị bọn nó chat kênh TG troll :D
+
+Chức năng hiện tại :
+-Tanker luôn đi trước team
+-Nhận máu free nếu còn số lần nhận
+-Mua máu nếu hết máu free
+-Lệnh cho team tự out map TK
+Chức năng chuẩn bị hoàn thành:
+- Fix lại tool báo hiệu ứng skill
+-Hiện số quân ta và quân địch trong bán kính 1000

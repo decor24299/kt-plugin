@@ -1,0 +1,137 @@
+*Không tự ý thay đổi các tọa độ
+*Plug-in tích hợp hoặc hiểu các plug-in có thể tìm kiếm theo khu vực, bản đồ thêm
+
+CauCa1
+Tây Hạ--Cá Chép、Cá Vàng、Cá Bống、Cá Mè、Cá Tầm
+<link=pos:Long Môn Trấn(228.227),2,1826,3644>
+<link=pos:Long Môn Trấn(230.228),2,1846,3647>
+<link=pos:Long Môn Trấn(217.226),2,1739,3616>
+<link=pos:Long Môn Trấn(221.228),2,1770,3658>
+<link=pos:Sắc Lặc Xuyên(228.240),114,1825,3853>
+<link=pos:Sắc Lặc Xuyên(222.234),114,1781,3756>
+<link=pos:Cán Hoa Khê(208.226),94,1667,3623>
+<link=pos:Cán Hoa Khê(202.227),94,1622,3638>
+<link=pos:Cán Hoa Khê(205.229),94,1643,3674>
+<link=pos:Cán Hoa Khê(230.222),94,1845,3553>
+<link=pos:Cán Hoa Khê(227.221),94,1818,3537>
+<link=pos:Cán Hoa Khê(224.220),94,1799,3527>
+<link=pos:Cán Hoa Khê(214.221),94,1717,3543>
+<link=pos:Cán Hoa Khê(210.222),94,1686,3554>
+<link=pos:Mông Cổ Vương Đỉnh(225.230),130,1802,3687>
+<link=pos:Mông Cổ Vương Đỉnh(227.226),130,1818,3625>
+<link=pos:Mông Cổ Vương Đỉnh(232.223),130,1859,3583>
+<link=pos:Mông Cổ Vương Đỉnh(230.218),130,1845,3501>
+<link=pos:Nguyệt Nha Tuyền(223.221),131,1786,3541>
+<link=pos:Nguyệt Nha Tuyền(219.218),131,1757,3492>
+<link=pos:Nguyệt Nha Tuyền(214.217),131,1715,3475>
+<link=pos:Nguyệt Nha Tuyền(214.219),131,1718,3505>
+<link=pos:Mê Cung Băng Huyệt(206.203),58,1648,3254>
+<link=pos:Mê Cung Băng Huyệt(204.201),58,1634,3230>
+CauCa2
+Đại Lý--Cá CHình、Cá Trắm cỏ、Cá Tuyết、Cá Mè Hoa、Cá Bá Vương
+<link=pos:Thạch Cổ Trấn(210.198),6,1680,3180>
+<link=pos:Thạch Cổ Trấn(213.200),6,1704,3208>
+<link=pos:Thạch Cổ Trấn(207.201),6,1662,3222>
+<link=pos:Thạch Cổ Trấn(209.189),6,1674,3034>
+<link=pos:Thạch Cổ Trấn(207.190),6,1660,3048>
+<link=pos:Thạch Cổ Trấn(214.189),6,1716,3033>
+<link=pos:Trà Mã Cổ Đạo(236.212),43,1893,3392>
+<link=pos:Trà Mã Cổ Đạo(231.212),43,1848,3399>
+<link=pos:Trà Mã Cổ Đạo(228.224),43,1826,3590>
+<link=pos:Trà Mã Cổ Đạo(225.225),43,1805,3613>
+<link=pos:Trà Mã Cổ Đạo(211.228),43,1688,3653>
+<link=pos:Tàn Tích Dạ Lang(227.221),135,1816,3538>
+<link=pos:Tàn Tích Dạ Lang(228.213),135,1826,3421>
+<link=pos:Tàn Tích Dạ Lang(234.224),135,1879,3596>
+<link=pos:Tàn Tích Dạ Lang(237.229),135,1899,3678>
+<link=pos:Điểm Thương Sơn(213.218),98,1705,3492>
+<link=pos:Điểm Thương Sơn(215.216),98,1721,3464>
+<link=pos:Điểm Thương Sơn(215.215),98,1721,3441>
+<link=pos:Điểm Thương Sơn(211.213),98,1694,3418>
+<link=pos:Nhĩ Hải Ma Nham(236.238),91,1892,3810>
+<link=pos:Nhĩ Hải Ma Nham(237.237),91,1897,3793>
+<link=pos:Nhĩ Hải Ma Nham(239.238),91,1915,3813>
+<link=pos:Nhĩ Hải Ma Nham(235.231),91,1886,3710>
+<link=pos:Nhĩ Hải Ma Nham(231.228),91,1853,3650>
+<link=pos:Nhĩ Hải Ma Nham(225.226),91,1807,3628>
+<link=pos:Nhĩ Hải Ma Nham(223.226),91,1788,3629>
+CauCa3
+Kim--"Cá Đồng.", "Cá Ngao Hoa.", "Cá Đầu To.", "Lươn To.", "Cá Ngát."
+<link=pos:Vân Trung Trấn(184.193),1,1472,3094>
+<link=pos:Vân Trung Trấn(183.200),1,1466,3205>
+<link=pos:Vân Trung Trấn(188.203),1,1506,3253>
+<link=pos:Vân Trung Trấn(175.197),1,1400,3163>
+<link=pos:Vĩnh Lạc Trấn(214.203),3,1717,3248>
+<link=pos:Vĩnh Lạc Trấn(210.200),3,1682,3213>
+<link=pos:Trấn Đông Mộ Viên(199.231),38,1593,3710>
+<link=pos:Trấn Đông Mộ Viên(211.237),38,1693,3804>
+<link=pos:Đông Quan(222.204),40,1779,3274>
+<link=pos:Đông Quan(218.204),40,1749,3270>
+<link=pos:Đông Quan(213.203),40,1706,3259>
+<link=pos:Chiến Trường Cổ(237.245),30,1900,3935>
+<link=pos:Chiến Trường Cổ(236.253),30,1894,4051>
+<link=pos:梁山泊(215.205),133,1725,3285>
+<link=pos:梁山泊(224.225),133,1799,3610>
+CauCa4
+Tống（Đông）--"Cá Trắm đen.", "Cá Chẽm.", "Cá Chim trắng.", "Cá Lăng.", "Cá Trích."
+<link=pos:Đạo Hương Thôn(208.207),4,1671,3322>
+<link=pos:Đạo Hương Thôn(213.204),4,1711,3264>
+<link=pos:Đạo Hương Thôn(215.203),4,1726,3250>
+<link=pos:Long Tuyền Thôn(183.211),7,1466,3378>
+<link=pos:Long Tuyền Thôn(181.211),7,1452,3387>
+<link=pos:Long Tuyền Thôn(178.214),7,1430,3424>
+<link=pos:Nhạn Đẵng Long Thu(212.242),36,1699,3877>
+<link=pos:Nhạn Đẵng Long Thu(215.236),36,1727,3780>
+<link=pos:Phường Đúc Kiếm(214.230),44,1713,3680>
+<link=pos:Phường Đúc Kiếm(220.224),44,1761,3598>
+<link=pos:Phường Đúc Kiếm(236.211),44,1889,3388>
+<link=pos:Hoài Thủy Sa Châu(236.236),41,1888,3776>
+<link=pos:Hoài Thủy Sa Châu(236.232),41,1888,3720>
+<link=pos:Hoài Thủy Sa Châu(237.227),41,1903,3639>
+<link=pos:Hàn Sơn Cỏ Sát(221.207),89,1773,3325>
+<link=pos:Hàn Sơn Cỏ Sát(222.207),89,1783,3318>
+<link=pos:Thái Thạch Cơ(221.214),92,1770,3430>
+<link=pos:Cửu Nghi Khê(228.227),106,1831,3644>
+<link=pos:Cửu Nghi Khê(207.216),106,1657,3468>
+<link=pos:Cửu Nghi Khê(204.214),106,1637,3426>
+<link=pos:Vũ Di Sơn(205.229),120,1647,3674>
+<link=pos:Vũ Di Sơn(217.230),120,1740,3685>
+<link=pos:Tỏa Vân Uyên(208.221),128,1668,3538>
+<link=pos:Tỏa Vân Uyên(201.217),128,1613,3476>
+<link=pos:Tỏa Vân Uyên(204.219),128,1635,3518>
+<link=pos:Hàn Sơn Cỏ Sát(215.202),89,1724,3237>
+<link=pos:Hàn Sơn Cỏ Sát(212.201),89,1700,3228>
+CauCa5
+Tống（Tây）--"Cá Trê.", "Cá Kim Long.", "Cá Nóc.", "Cá Chạch.", "Cá Lô."
+<link=pos:Giang Tân Thôn(208.195),5,1666,3135>
+<link=pos:Giang Tân Thôn(207.202),5,1660,3233>
+<link=pos:Giang Tân Thôn(188.193),5,1507,3090>
+<link=pos:Ba Lăng Huyện(227.213),8,1818,3420>
+<link=pos:Ba Lăng Huyện(219.206),8,1751,3296>
+<link=pos:Ba Lăng Huyện(211.222),8,1692,3552>
+<link=pos:Ba Lăng Huyện(211.217),8,1688,3484>
+<link=pos:Ba Lăng Huyện(201.215),8,1611,3445>
+<link=pos:Trường Giang Hà Cốc(249.243),34,1992,3890>
+<link=pos:Trường Giang Hà Cốc(251.242),34,2012,3874>
+<link=pos:Trường Giang Hà Cốc(252.241),34,2019,3867>
+<link=pos:Trường Giang Hà Cốc(253.240),34,2027,3850>
+<link=pos:Thục Nam Trúc Hải(226.243),42,1810,3903>
+<link=pos:Thục Nam Trúc Hải(209.249),42,1679,3999>
+<link=pos:Thục Nam Trúc Hải(212.245),42,1703,3923>
+<link=pos:Thục Nam Trúc Hải(205.250),42,1647,4002>
+<link=pos:Cán Hoa Khê(235.214),90,1887,3425>
+<link=pos:Cán Hoa Khê(214.217),90,1716,3478>
+<link=pos:Thần Nữ Phong(235.227),134,1887,3643>
+<link=pos:Thần Nữ Phong(231.227),134,1854,3640>
+<link=pos:Thần Nữ Phong(229.227),134,1834,3634>
+<link=pos:Thần Nữ Phong(226.228),134,1815,3659>
+<link=pos:Tam Hiệp Sạn Đạo(220.214),126,1760,3428>
+<link=pos:Tam Hiệp Sạn Đạo(234.208),126,1877,3333>
+<link=pos:Tam Hiệp Sạn Đạo(234.205),126,1878,3289>
+<link=pos:Nhạc Dương Lầu(202.237),45,1616,3801>
+<link=pos:Nhạc Dương Lầu(217.241),45,1738,3868>
+<link=pos:Nhạc Dương Lầu(222.241),45,1776,3856>
+<link=pos:Bờ Hồ Động Đình(205.253),37,1643,4051>
+<link=pos:Bờ Hồ Động Đình(208.253),37,1669,4050>
+<link=pos:Bờ Hồ Động Đình(223.253),37,1786,4058>
+CauCa6
