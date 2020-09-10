@@ -95,11 +95,23 @@ function tbWaBao:goToNpc(id, name)
 
 	if npc then
 		AutoAi.SetTargetIndex(npc.nIndex)
-		return
-	else
-		local x, y = KNpc.ClientGetNpcPos(me.GetMapTemplateId(), id)
-		tbWaBao:goTo(me.GetMapTemplateId(), x, y)
+		return 1
 	end
+
+	local x, y = KNpc.ClientGetNpcPos(me.GetMapTemplateId(), id)
+	tbWaBao:goTo(me.GetMapTemplateId(), x, y)
+
+	return 0
+end
+
+function tbWaBao:answerNpc()
+	if (UiManager:WindowVisible(Ui.UI_SAYPANEL) == 1) then
+		me.AnswerQestion(0)
+		UiManager:CloseWindow(Ui.UI_SAYPANEL)
+		return 1
+	end
+
+	return 0
 end
 
 function tbWaBao:onWaBaoTime()
@@ -108,44 +120,36 @@ end
 
 function tbWaBao:thuDaoLac()
 	if mission1 == 1 then
-		local npc = tbWaBao:findNpcByName("Tử Thư Thanh")
+		local isArrived = tbWaBao:goToNpc(10152, "Tử Thư Thanh")
 
-		if npc then
-			AutoAi.SetTargetIndex(npc.nIndex)
+		if isArrived == 1 then
 			mission1 = mission1 + 1
 			return
-		else
-			local x, y = KNpc.ClientGetNpcPos(me.GetMapTemplateId(), 10152)
-			tbWaBao:goTo(me.GetMapTemplateId(), x, y)
 		end
 	end
 
 	if mission1 == 2 then
-		if (UiManager:WindowVisible(Ui.UI_SAYPANEL) == 1) then
-			me.AnswerQestion(0)
-			UiManager:CloseWindow(Ui.UI_SAYPANEL)
+		local isAnswered = tbWaBao:answerNpc()
+
+		if isAnswered == 1 then
 			mission1 = mission1 + 1
 			return
 		end
 	end
 
 	if mission1 == 3 then
-		local npc = tbWaBao:findNpcByName("Tử Thư Thanh")
+		local isArrived = tbWaBao:goToNpc(10152, "Tử Thư Thanh")
 
-		if npc then
-			AutoAi.SetTargetIndex(npc.nIndex)
+		if isArrived == 1 then
 			mission1 = mission1 + 1
 			return
-		else
-			local x, y = KNpc.ClientGetNpcPos(me.GetMapTemplateId(), 10152)
-			tbWaBao:goTo(me.GetMapTemplateId(), x, y)
 		end
 	end
 
 	if mission1 == 4 then
-		if (UiManager:WindowVisible(Ui.UI_SAYPANEL) == 1) then
-			me.AnswerQestion(0)
-			UiManager:CloseWindow(Ui.UI_SAYPANEL)
+		local isAnswered = tbWaBao:answerNpc()
+
+		if isAnswered == 1 then
 			mission1 = mission1 + 1
 			return
 		end
@@ -153,7 +157,6 @@ function tbWaBao:thuDaoLac()
 
 	if mission1 == 5 then
 		local npc = tbWaBao:findNpcByName("Cành đào")
-		me.Msg(type(npc))
 
 		if npc then
 			AutoAi.SetTargetIndex(npc.nIndex)
@@ -194,24 +197,19 @@ function tbWaBao:thuDaoLac()
 	end
 
 	if mission1 == 8 then
-		local npc = tbWaBao:findNpcByName("Hứa Sĩ Vĩ")
+		local isArrived = tbWaBao:goToNpc(3583, "Hứa Sĩ Vĩ")
 
-		if npc then
-			AutoAi.SetTargetIndex(npc.nIndex)
+		if isArrived == 1 then
 			mission1 = mission1 + 1
 			return
-		else
-			local x, y = KNpc.ClientGetNpcPos(me.GetMapTemplateId(), 3583)
-			tbWaBao:goTo(me.GetMapTemplateId(), x, y)
 		end
 	end
 
 	if mission1 == 9 then
-		if (UiManager:WindowVisible(Ui.UI_SAYPANEL) == 1) then
-			me.AnswerQestion(0)
-			UiManager:CloseWindow(Ui.UI_SAYPANEL)
+		local isAnswered = tbWaBao:answerNpc()
+
+		if isAnswered == 1 then
 			mission1 = mission1 + 1
-			tbWaBao:hhEndWaBao()
 			return
 		end
 	end
